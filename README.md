@@ -3,27 +3,14 @@
 ## Project Overview
 This project analyzes Blinkit sales data using Power BI to generate meaningful insights about sales performance, customer behavior, and product trends.
 
-## Dataset
-- Source: Kaggle / Provided dataset
-- Records: 5000+ entries
+#Key Insights:
 
-## Key Insights
-- Identified top-selling products
-- Analyzed sales by location and category
-- Found customer purchasing patterns
-- Revenue trends over time
+#Total Revenue & Volume: The project analyzed a total of $1.20M in sales across 8,523 items.
 
-## Tools Used
-- Power BI
-- Excel / CSV
+#Top Performing Outlets: Supermarket Type 1 is the highest contributor, accounting for $0.79M in total sales.
 
-## Dashboard Preview
-(Add your screenshot here)
+#Location Trends: Tier 3 locations are the most profitable, generating $472.13K.
 
-## How to Use
-1. Download the .pbix file
-2. Open in Power BI Desktop
-3. Explore dashboards
+#Establishment Growth: There was a significant peak in outlet establishments in 2018, reaching a high of 205K.
 
-## 💡 Conclusion
-This dashboard helps in understanding business performance and making data-driven decisions.
+#Size Efficiency: Medium-sized outlets contribute the largest share of sales at 42.27% ($507.9K).
