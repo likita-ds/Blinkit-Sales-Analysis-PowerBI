@@ -1,16 +1,28 @@
-# Blinkit Sales Analysis Dashboard
-
+Blinkit Sales Analysis Dashboard
 ## Project Overview
-This project analyzes Blinkit sales data using Power BI to generate meaningful insights about sales performance, customer behavior, and product trends.
 
-#Key Insights:
+In this project, I used Power BI to explore Blinkit’s sales data and understand how different factors like outlet type, location, and size affect overall sales performance. The goal was to turn raw data into simple, meaningful insights.
 
-#Total Revenue & Volume: The project analyzed a total of $1.20M in sales across 8,523 items.
+## Problem Statement
 
-#Top Performing Outlets: Supermarket Type 1 is the highest contributor, accounting for $0.79M in total sales.
+The main idea behind this project was to figure out which outlets and locations perform the best, and how sales vary across different categories.
 
-#Location Trends: Tier 3 locations are the most profitable, generating $472.13K.
+## Tools & Technologies
+Power BI
+Data Visualization
+KPI Analysis
+## What I Did
+Imported the dataset into Power BI
+Created important KPIs like total sales, average sales, and ratings
+Built an interactive dashboard using filters and slicers
+Analyzed sales patterns across outlet types, sizes, and locations
+## Key Insights
+Total sales reached $1.20M across 8,523 items
+Supermarket Type 1 outlets generated the highest revenue ($0.79M)
+Tier 3 locations showed the best performance with $472.13K in sales
+Outlet establishments peaked in 2018
+Medium-sized outlets contributed the most (42.27% of total sales)
 
-#Establishment Growth: There was a significant peak in outlet establishments in 2018, reaching a high of 205K.
+## What I Learned / Impact
+Through this project, I understood how dashboards can help quickly identify top-performing areas and trends. These insights can help businesses focus more on profitable locations and improve their overall sales strategy.
 
-#Size Efficiency: Medium-sized outlets contribute the largest share of sales at 42.27% ($507.9K).
